@@ -10,6 +10,9 @@
   display: block;
   text-align: right;
 }
+.header-title {
+  display: none;
+}
 .header .img {
   width: 100%;
 }
